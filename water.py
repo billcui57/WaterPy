@@ -5,7 +5,6 @@ import time
 
 switch = 4 
 relay = 21 
-state = 1
 
 GPIO.setmode(GPIO.BCM) 
 GPIO.setwarnings(False)
